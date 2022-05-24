@@ -1,0 +1,20 @@
+# Ignore all files by default, but scan all directories
+*
+!*/
+
+# C/C++ source files
+!*.cpp
+!*.h
+
+# Other
+!*.bat
+!*.sh
+!*.mak
+
+# Specific names
+!README.md
+!LICENSE
+
+# Ignore folders
+.vscode/
+Binaries/
