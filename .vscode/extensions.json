@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "coenraads.bracket-pair-colorizer",
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.cpptools-themes",
+        "ms-vscode.makefile-tools",
+        "pkief.material-icon-theme",
+        "slevesque.shader"
+    ]
+}

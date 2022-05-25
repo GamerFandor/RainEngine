@@ -1,0 +1,27 @@
+{
+    "configurations":
+    [
+        {
+            "name": "Launch on Windows",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Binaries/Editor.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/Binaries/",
+            "environment": [],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Launch on Linux",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Binaries/Editor",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/Binaries/",
+            "environment": []
+        }
+    ],
+    "version": "0.2.0"
+}
